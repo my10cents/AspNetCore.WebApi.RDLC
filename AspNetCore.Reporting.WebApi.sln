@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Reporting.WebApi", "AspNetCore.Reporting.WebApi\AspNetCore.Reporting.WebApi.csproj", "{BE4517C9-A438-4BB2-B7E0-48EFE954B4EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4517C9-A438-4BB2-B7E0-48EFE954B4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4517C9-A438-4BB2-B7E0-48EFE954B4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4517C9-A438-4BB2-B7E0-48EFE954B4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4517C9-A438-4BB2-B7E0-48EFE954B4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2E12EE1-9959-4AE9-B910-395230295341}
+	EndGlobalSection
+EndGlobal
